@@ -1,0 +1,8 @@
+langchain>=0.3.7
+langchain-openai>=0.2.4
+ddgs>=9.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+geopy>=2.4.1
+qrcode[pil]>=7.4.2
+pyTelegramBotAPI>=4.14.0

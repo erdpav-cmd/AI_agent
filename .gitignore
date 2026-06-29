@@ -1,0 +1,29 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Память и логи (опционально)
+memory/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
